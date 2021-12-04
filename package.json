@@ -1,0 +1,17 @@
+{
+  "name": "stream-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "jest": "^27.4.3",
+    "sharp": "^0.29.3"
+  }
+}

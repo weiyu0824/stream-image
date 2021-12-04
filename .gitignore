@@ -1,0 +1,5 @@
+node_modules
+.DS_Store
+images/*.jpg
+test/img.jpg
+test/flip-img.jpg
