@@ -5,12 +5,13 @@
 ```
 npm install
 ```
-2. Run download and process function
+2. Download and flip the image
 ```bash
 npm run start 
 ```
-after run the command, you can see two images, img.jpg, process-img.jpg, in the folder, `./images`
-3. Test the function
+after running the command, you can see two images, img.jpg and flip-img.jpg, in the folder, `./images/`
+
+3. Run unit tests
 ```bash
 npm run test
 ```
@@ -22,6 +23,7 @@ npm run test
 
 ## Testing
 - test if the image downloaded by the function is same as an image downloaded by myself manually.
+  - `test/test-img.jpg` is the image that I downloaded manually.
 
 ## Dependencies
 - `axios` : for fetching images
