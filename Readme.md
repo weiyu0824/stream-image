@@ -22,7 +22,7 @@ npm run test
 4. Save the flipped image to path, `images/flip-img.jpg`.
 
 ## Testing
-- test if the image downloaded by the function is same as an image downloaded by myself manually.
+- test if the image downloaded by the function is same as an image downloaded by myself.
   - `test/test-img.jpg` is the image that I downloaded manually.
 
 ## Dependencies
